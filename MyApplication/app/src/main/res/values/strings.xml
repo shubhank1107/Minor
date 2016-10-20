@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StockMarketv2</string>
+    <string name="facebook_app_id">164855667305495</string>
+    <string name="Title_text">Stock Name/Symbol</string>
+    <string name="clearButtonText">CLEAR</string>
+    <string name="quoteButtonText">GET QUOTE</string>
+    <string name="favoritesTextView">Favorites</string>
+    <string name="auto_refreshButtonText">Auto Refresh</string>
+    <string name="NewsTitle">LargeText</string>
+    <string name="news_feed_main_text">News Feed</string>
+    <string name="facebook_image">Facebook Image</string>
+    <string name="facebook_image1">Facebook Image</string>
+
+    <string name="slide_1">•´¯`•. ѕтocĸ eмperor .•´¯`•</string>
+    <string name="slide_2">All the Financial Information You Need </string>
+    <string name="slide_3">Real Time Charts</string>
+    <string name="slide_4">Share with Facebook</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="use_now">USE NOW</string>
+</resources>
